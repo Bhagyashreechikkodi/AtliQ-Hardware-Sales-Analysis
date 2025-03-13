@@ -1,9 +1,15 @@
-🔍 Project Overview
-This repository presents a complete ETL (Extract, Transform, Load) pipeline and sales analysis for AtliQ Hardwares. The objective is to help the company track and optimize key performance indicators (KPIs) such as Net Sales and Gross Margins.
-✔ End-to-End ETL Process – Extracting, transforming, and loading sales data for deeper insights.
-✔ Sales & Performance Analysis – Evaluating product trends, customer behavior, and profitability.
-✔ Actionable Insights – Providing data-driven recommendations to optimize business performance.
-The analysis includes detailed reports on product performance, customer sales, and overall profitability, enabling AtliQ Hardwares to make informed strategic decisions. 🚀
+## 🔍 Project Overview  
+
+This repository presents a complete **ETL (Extract, Transform, Load) pipeline** and **sales analysis** for **AtliQ Hardwares**.  
+The objective is to help the company **track and optimize key performance indicators (KPIs)** such as **Net Sales** and **Gross Margins**.  
+
+### ✔ Key Highlights  
+- **End-to-End ETL Process** – Extracting, transforming, and loading sales data for deeper insights.  
+- **Sales & Performance Analysis** – Evaluating product trends, customer behavior, and profitability.  
+- **Actionable Insights** – Providing data-driven recommendations to optimize business performance.  
+
+The analysis includes **detailed reports** on **product performance, customer sales, and overall profitability**, enabling **AtliQ Hardwares** to make informed strategic decisions. 🚀  
+
 
 🎯 Objectives
 

@@ -11,21 +11,29 @@ The objective is to help the company **track and optimize key performance indica
 The analysis includes **detailed reports** on **product performance, customer sales, and overall profitability**, enabling **AtliQ Hardwares** to make informed strategic decisions. 🚀  
 
 
-🎯 Objectives
+## 🎯 Objectives  
 
-✅ Unlock Strategic Insights – Transform unstructured sales data into meaningful business intelligence.
-✅ Optimize Revenue & Profitability – Enhance Net Sales and Gross Margins through data-driven decisions.
-✅ Monitor Key Metrics – Track KPIs, sales performance, and profit margins for continuous improvement.
+✅ **Unlock Strategic Insights** – Transform unstructured sales data into meaningful business intelligence.  
 
-🛠 Tools Used
+✅ **Optimize Revenue & Profitability** – Enhance **Net Sales** and **Gross Margins** through data-driven decisions.  
 
-✔ Excel – Data cleaning, manipulation, and analysis using advanced formulas.
-✔ ETL Techniques – Organizing and structuring raw data for seamless analysis.
-✔ Power Pivot – Building complex data models and managing relationships between datasets.
-✔ Power Query – Streamlining data cleaning and transformation processes.
-✔ Statistical Tools – Analyzing key metrics using Mean, Median, Mode, Variance, Standard Deviation, and Correlation to derive actionable insights.
+✅ **Monitor Key Metrics** – Track **KPIs, sales performance, and profit margins** for continuous improvement.  
 
-📈 Key Insights
+
+## 🛠 Tools Used  
+
+✔ **Excel** – Data cleaning, manipulation, and analysis using advanced formulas.  
+
+✔ **ETL Techniques** – Organizing and structuring raw data for seamless analysis.  
+
+✔ **Power Pivot** – Building complex data models and managing relationships between datasets.  
+
+✔ **Power Query** – Streamlining data cleaning and transformation processes.  
+
+✔ **Statistical Tools** – Analyzing key metrics using **Mean, Median, Mode, Variance, Standard Deviation, and Correlation** to derive actionable insights.  
+
+
+## 📈 Key Insights
 
 ✅ **Sales Performance Tracking** – **Customer Net Sales Report & Market Performance vs Target Report** to monitor sales against goals and drive business growth.  
 

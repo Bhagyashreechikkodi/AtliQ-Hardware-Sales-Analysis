@@ -49,7 +49,7 @@ The analysis includes **detailed reports** on **product performance, customer sa
 
 ✅ **Yearly Sales Comparison** – A **Division-Level Report** comparing sales performance between **2020 & 2021**.
 
-📚 **Key Learnings**  
+## 📚 **Key Learnings**  
 
 ✅ **Advanced Excel Expertise** – Mastered **complex formulas** for efficient data analysis and decision-making.  
 
